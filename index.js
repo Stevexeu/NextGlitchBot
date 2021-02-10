@@ -16,19 +16,19 @@ client.categories = fs.readdirSync("./commands/");
 
 client.on("message", (message) => {
   if (message.content.startsWith("i am banned")) {
-    message.channel.send("That would be your own fault");
+    message.channel.send("That would be your own fault!");
   } else
 
   if (message.content.startsWith("I am banned")) {
-    message.channel.send("That would be your own fault");
+    message.channel.send("That would be your own fault!");
   } 
 
   if (message.content.startsWith("I Am banned")) {
-    message.channel.send("That would be your own fault");
+    message.channel.send("That would be your own fault!");
   }
 
   if (message.content.startsWith("I Am Banned")) {
-    message.channel.send("That would be your own fault");
+    message.channel.send("That would be your own fault!");
   }
 
   if (message.content.startsWith("Good bot")) {
