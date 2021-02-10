@@ -12,19 +12,19 @@ module.exports = {
             .setDescription(`    
             You can find the full version of our rules on the website.
             This link will take you there directly: http://www.nextglitch.eu/glr/
-            
+
             **Rules**
             A short version of our rules.
             - Respect each other, we do not accept toxic behaviour.
-            - Do not use 3rth party discord software.
+            - Do not use 3rd party discord software.
             - Racism of anykind will get you perm banned.
             - Homophobia / Sexcism is both not allowed.
             - You are not allowed to sell league of legends accounts in here.
             - Advertising other servers / sites is not allowed.
             - Do not ask for ranks.
-            
+
             - You can create a ticket in the: "create-ticket" chat.
-            Use tickets for support, club related questions, team related questions.
+            Use tickets for support, club related questions and team related questions.
 
             - Waiting Room
             Join the waiting room if you want support with voice chat.
