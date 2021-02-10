@@ -9,6 +9,6 @@ module.exports = client => {
     console.log("[NEXTGLITCH] Plugin date: 78%");
     console.log("[NEXTGLITCH] Plugin date: 92%");
     console.log("[NEXTGLITCH] Plugin date: 100%");
-    console.log("[NEXTGLITCH] De bot is volledig opgestart!");
+    console.log("[NEXTGLITCH] De bot is volledig opgestart");
 
 }
