@@ -18,7 +18,7 @@ module.exports = {
             If you are intrested in this team name.
             Then please click on the ✅ emoji to vote.
             `)
-            .setThumbnail("https://cdn.discordapp.com/attachments/721405053893607484/808912046829469696/elements-client-img-5.png")
+            .setThumbnail("https://cdn.discordapp.com/attachments/641704436657553419/808935650073378816/order.png")
             .setColor("#beed8e")
 
         message.delete().catch(err => console.log(err));
