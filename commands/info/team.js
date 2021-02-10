@@ -21,8 +21,9 @@ module.exports = {
             Every one is welcome, as long as your motivated.
 
             **How do you get in a team?**
-            - Register your self in #apply-request (not much work)
-            - When our recruiters are there, you can join the waiting room and we speak with you.
+            - Register your self in #apply-request (not much work).
+            - You have to apply in a voice chat with us, This means that you will have to wait 
+            until our recruiters are hosting applications. (we do this everyday).
             - After you have spoken with us, you will be accepted or rejected.
             - If you accepted, you will be placed in a team asap.
 
@@ -39,7 +40,7 @@ module.exports = {
             Have a good one!
 
             `)
-            .setColor("#52f244")
+            .setColor("#9cafff")
 
         message.delete().catch(err => console.log(err));
         return message.channel.send(botEmbed);

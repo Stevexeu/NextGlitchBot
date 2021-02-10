@@ -10,7 +10,7 @@ module.exports = {
         var botEmbed = new discord.MessageEmbed()
             .setTitle("Information")
             .setDescription(`    
-            **Agreed**
+            **About us**
             Welcome to our discord. NextGlich is a returning org.
             We have experienced and active staff. This is one of the reason that we can manage to help you all out so well.
             Creating teams, Hosting events, and even some fun gaming stuff!
@@ -31,7 +31,7 @@ module.exports = {
             If you want a invite link, You can type:
             "invite link" in any chat. 
             `)
-            .setColor("#52f244")
+            .setColor("#eb4034")
 
         message.delete().catch(err => console.log(err));
         return message.channel.send(botEmbed);
