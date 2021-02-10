@@ -1,13 +1,13 @@
 {
-  "name": "SolarV3",
+  "name": "NextGlitch",
   "version": "1.0.0",
-  "description": "Solar official bot",
+  "description": "NextGlitch official bot",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon"
   },
-  "author": "Remco",
+  "author": "Stevexeu",
   "license": "ISC",
   "dependencies": {
     "ascii-table": "0.0.9",
