@@ -11,7 +11,7 @@ module.exports = {
             .setTitle("Server Rules")
             .setDescription(`    
             You can find the full version of our rules on the website.
-            This link will take you there directly:
+            This link will take you there directly: http://www.nextglitch.eu/glr/
             
             **Rules**
             A short version of our rules.
