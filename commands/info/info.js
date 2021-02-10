@@ -12,7 +12,7 @@ module.exports = {
             .setDescription(`    
             **About us**
             Welcome to our discord. NextGlich is a returning org.
-            We have experienced and active staff. This is one of the reason that we can manage to help you all out so well.
+            We have experienced and active staff. This is one of the reasons that we can manage to help you all out so well.
             Creating teams, Hosting events, and even some fun gaming stuff!
             We play a few games in here, 2 of them on a competitive level. (League of Legends) and (Valorant).
             We are also planning to host some cool tournaments for those games. 
