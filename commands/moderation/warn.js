@@ -18,6 +18,7 @@ module.exports = {
                 return message.channel.send(
                     `You did something wrong.`
                 );
+                
             }
             let Avatar = User.displayAvatarURL();
             let Channel = message.guild.channels.cache.find(

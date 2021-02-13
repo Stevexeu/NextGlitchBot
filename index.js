@@ -82,6 +82,34 @@ client.on("message", (message) => {
   if (message.content.startsWith("Invite Link")) {
     message.channel.send("Here is a link to invite people: https://discord.gg/wQd4ejD8r9");
   }
+  
+  if (message.content.startsWith("How do i join a team")) {
+    message.channel.send("You can find this information in the chat named: join-a-team");
+  }
+
+  if (message.content.startsWith("how do i join a team")) {
+    message.channel.send("You can find this information in the chat named: join-a-team");
+  }
+
+  if (message.content.startsWith("How do i join a Team")) {
+    message.channel.send("You can find this information in the chat named: join-a-team");
+  }
+
+  if (message.content.startsWith("How do i join a team?")) {
+    message.channel.send("You can find this information in the chat named: join-a-team");
+  }
+
+  if (message.content.startsWith("how do i join a team?")) {
+    message.channel.send("You can find this information in the chat named: join-a-team");
+  }
+
+  if (message.content.startsWith("How do i join a team!")) {
+    message.channel.send("You can find this information in the chat named: join-a-team");
+  }
+
+  if (message.content.startsWith("how do i join a team!")) {
+    message.channel.send("You can find this information in the chat named: join-a-team");
+  }
     client.user.setActivity('www.nextglitch.eu!', { type: 'PLAYING' });
 
 });
