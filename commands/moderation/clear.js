@@ -5,7 +5,7 @@ module.exports = {
     description: 'clear',
     run: async (bot, message, args, guild) => {
 
-        if (!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("Nop, you are not a moderator!");
+        if (!message.member.hasPermission("MANAGE_NICKNAMES")) return message.reply("Nop, you are not a moderator!");
 
         if (!args[0]) return message.reply("Please tell me how much messages i have to delete");
 
