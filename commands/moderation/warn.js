@@ -6,7 +6,7 @@ module.exports = {
     usage: "<User mention>",
     run: async (bot, message, args, guild) => {
         message.delete().catch(err => console.log(err));
-        if (!message.member.permissions.has("MANAGE_MESSAGES"))
+        if (!message.member.permissions.has("MANAGE_NICKNAMES"))
             return message.channel.send(`Nop, you are not a moderator.`);
         let User = message.mentions.users.first() || null;
 
